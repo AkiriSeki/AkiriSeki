@@ -1,4 +1,4 @@
-<img src="https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif" width="250" height="250"/>
+<img src="https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif" width="250" height="25"/>
 Hi everyone
 I am Akiri👋
 
