@@ -1,5 +1,5 @@
-Welcome to my GitHub page 🙌
-I am Akiri
+Welcome to my GitHub page 🙌  
+I am Akiri  
 <img src="https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif" width="250" height="100"/>
 
 
