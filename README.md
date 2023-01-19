@@ -1,6 +1,6 @@
 Hi everyone
 I am Akiri👋
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/AkiriSeki/AkiriSeki/blob/main/cat.gif))
+![Alt Text](https://github.com/AkiriSeki/AkiriSeki/blob/main/cat.gif)
 
 <!--
 **AkiriSeki/AkiriSeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
