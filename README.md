@@ -1,4 +1,4 @@
-![image alt >](https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif | width=100)
+<img src="https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif" width="250" height="250"/>
 Hi everyone
 I am Akiri👋
 
@@ -8,6 +8,7 @@ I am Akiri👋
 
 Here are some ideas to get you started:
 ### Hi there 
+![image alt >](https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif | width=100)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
