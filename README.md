@@ -1,21 +1,8 @@
 Welcome to my GitHub page 🙌  
-I am Akiri  
+I am a Ph.D. student in the US🗽  
+Currently, I am working on developing a framework of Real-Time Hybrid Simulation (RTHS) for offshore wind turbines🌎  
+
+In my leisure time, I like working out🏋️‍♀️, taking photography📷, and reading sci-fi books📖
+Also, I like to learn something small in my spare time. Now I am memorizing all the capitals in the states😀
+
 <img src="https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif" width="250" height="100"/>
-
-
-
-<!--
-**AkiriSeki/AkiriSeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### Hi there 
-![image alt >](https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif | width=100)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
