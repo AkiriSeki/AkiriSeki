@@ -1,7 +1,7 @@
 Hi everyone
 I am Akiri👋
 
-![Alt Text](https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif)
+![image alt>](https://github.com/AkiriSeki/AkiriSeki/blob/main/loading_bar.gif)
 <!--
 **AkiriSeki/AkiriSeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
